@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kom2Qu7k4+/VNBj9jOHQcBGMJ87GP7bjoyzsvF8VkKKm5eaw4xn13Ar02oOu4gEvVrwwbt9j9WgglqVa0PoaZA==",
+  "success": true,
+  "projectFilePath": "C:\\SupportSystem\\SupportSystem.Api\\src\\Modules\\SupportChat\\SupportChat.Application\\SupportChat.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportChat.Infrastructure.csproj.AssemblyReference.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportChat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportChat.Infrastructure.AssemblyInfoInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportChat.Infrastructure.AssemblyInfo.cs
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportChat.Infrastructure.csproj.CoreCompileInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\bin\Debug\net8.0\SupportChat.Infrastructure.deps.json
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\bin\Debug\net8.0\SupportChat.Infrastructure.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\bin\Debug\net8.0\SupportChat.Infrastructure.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\bin\Debug\net8.0\SupportChat.Application.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\bin\Debug\net8.0\SupportChat.Domain.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\bin\Debug\net8.0\SupportChat.Application.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\bin\Debug\net8.0\SupportChat.Domain.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportC.CE810751.Up2Date
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportChat.Infrastructure.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\refint\SupportChat.Infrastructure.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\SupportChat.Infrastructure.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Infrastructure\obj\Debug\net8.0\ref\SupportChat.Infrastructure.dll

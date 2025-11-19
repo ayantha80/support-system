@@ -1,0 +1,11 @@
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\bin\Debug\net8.0\SupportChat.Domain.deps.json
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\bin\Debug\net8.0\SupportChat.Domain.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\bin\Debug\net8.0\SupportChat.Domain.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\SupportChat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\SupportChat.Domain.AssemblyInfoInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\SupportChat.Domain.AssemblyInfo.cs
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\SupportChat.Domain.csproj.CoreCompileInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\SupportChat.Domain.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\refint\SupportChat.Domain.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\SupportChat.Domain.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Domain\obj\Debug\net8.0\ref\SupportChat.Domain.dll

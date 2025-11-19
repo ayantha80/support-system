@@ -1,0 +1,17 @@
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportChat.Api.csproj.AssemblyReference.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportChat.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportChat.Api.AssemblyInfoInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportChat.Api.AssemblyInfo.cs
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportChat.Api.csproj.CoreCompileInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\bin\Debug\net8.0\SupportChat.Api.deps.json
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\bin\Debug\net8.0\SupportChat.Api.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\bin\Debug\net8.0\SupportChat.Api.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\bin\Debug\net8.0\SupportChat.Application.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\bin\Debug\net8.0\SupportChat.Domain.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\bin\Debug\net8.0\SupportChat.Application.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\bin\Debug\net8.0\SupportChat.Domain.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportC.E9ECFCBF.Up2Date
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportChat.Api.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\refint\SupportChat.Api.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\SupportChat.Api.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Api\obj\Debug\net8.0\ref\SupportChat.Api.dll

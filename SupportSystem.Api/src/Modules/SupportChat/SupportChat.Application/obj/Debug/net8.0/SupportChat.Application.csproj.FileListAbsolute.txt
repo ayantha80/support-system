@@ -1,0 +1,15 @@
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\bin\Debug\net8.0\SupportChat.Application.deps.json
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\bin\Debug\net8.0\SupportChat.Application.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\bin\Debug\net8.0\SupportChat.Application.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\bin\Debug\net8.0\SupportChat.Domain.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\bin\Debug\net8.0\SupportChat.Domain.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportChat.Application.csproj.AssemblyReference.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportChat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportChat.Application.AssemblyInfoInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportChat.Application.AssemblyInfo.cs
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportChat.Application.csproj.CoreCompileInputs.cache
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportC.5015B780.Up2Date
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportChat.Application.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\refint\SupportChat.Application.dll
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\SupportChat.Application.pdb
+C:\SupportSystem\SupportSystem.Api\src\Modules\SupportChat\SupportChat.Application\obj\Debug\net8.0\ref\SupportChat.Application.dll

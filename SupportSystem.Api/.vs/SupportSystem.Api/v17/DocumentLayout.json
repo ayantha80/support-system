@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SupportSystem\\SupportSystem.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF66A5B7-BE9A-46BC-9D39-AA07E4774E0B}|src\\Host\\Host.csproj|c:\\supportsystem\\supportsystem.api\\src\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF66A5B7-BE9A-46BC-9D39-AA07E4774E0B}|src\\Host\\Host.csproj|solutionrelative:src\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECAFC86-7D72-4983-91EA-EC35A20A43EF}|SupportSystem.Test\\SupportSystem.Test.csproj|c:\\supportsystem\\supportsystem.api\\supportsystem.test\\createchatsessioncommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECAFC86-7D72-4983-91EA-EC35A20A43EF}|SupportSystem.Test\\SupportSystem.Test.csproj|solutionrelative:supportsystem.test\\createchatsessioncommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-0123-DEF0-234567890123}|src\\Modules\\SupportChat\\SupportChat.Api\\SupportChat.Api.csproj|c:\\supportsystem\\supportsystem.api\\src\\modules\\supportchat\\supportchat.api\\controllers\\chatsessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-0123-DEF0-234567890123}|src\\Modules\\SupportChat\\SupportChat.Api\\SupportChat.Api.csproj|solutionrelative:src\\modules\\supportchat\\supportchat.api\\controllers\\chatsessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\Modules\\SupportChat\\SupportChat.Infrastructure\\SupportChat.Infrastructure.csproj|c:\\supportsystem\\supportsystem.api\\src\\modules\\supportchat\\supportchat.infrastructure\\repositories\\inmemoryagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|src\\Modules\\SupportChat\\SupportChat.Infrastructure\\SupportChat.Infrastructure.csproj|solutionrelative:src\\modules\\supportchat\\supportchat.infrastructure\\repositories\\inmemoryagentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-0123-DEF0-234567890123}|src\\Modules\\SupportChat\\SupportChat.Api\\SupportChat.Api.csproj|c:\\supportsystem\\supportsystem.api\\src\\modules\\supportchat\\supportchat.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-0123-DEF0-234567890123}|src\\Modules\\SupportChat\\SupportChat.Api\\SupportChat.Api.csproj|solutionrelative:src\\modules\\supportchat\\supportchat.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SupportSystem.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SupportSystem.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SupportSystem\\SupportSystem.Api\\SupportSyste.Test\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SupportSyste.Test\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateChatSessionCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Test\\CreateChatSessionCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "SupportSystem.Test\\CreateChatSessionCommandHandlerTests.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Test\\CreateChatSessionCommandHandlerTests.cs",
+              "RelativeToolTip": "SupportSystem.Test\\CreateChatSessionCommandHandlerTests.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:47:19.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryAgentRepository.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\src\\Modules\\SupportChat\\SupportChat.Infrastructure\\Repositories\\InMemoryAgentRepository.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\SupportChat\\SupportChat.Infrastructure\\Repositories\\InMemoryAgentRepository.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\src\\Modules\\SupportChat\\SupportChat.Infrastructure\\Repositories\\InMemoryAgentRepository.cs",
+              "RelativeToolTip": "src\\Modules\\SupportChat\\SupportChat.Infrastructure\\Repositories\\InMemoryAgentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:44:28.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\src\\Host\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Host\\Program.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\src\\Host\\Program.cs",
+              "RelativeToolTip": "src\\Host\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:46:49.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatSessionsController.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\ChatSessionsController.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\ChatSessionsController.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\ChatSessionsController.cs",
+              "RelativeToolTip": "src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\ChatSessionsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:05:12.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "src\\Modules\\SupportChat\\SupportChat.Api\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:05:10.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\SupportSyste.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SupportSyste.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\SupportSyste.Test\\UnitTest1.cs",
+              "RelativeToolTip": "SupportSyste.Test\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:22:28.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "SupportSystem.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "SupportSystem.Infrastructure\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:59:12.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "SupportSystem.Application\\Class1.cs",
+              "ToolTip": "C:\\SupportSystem\\SupportSystem.Api\\SupportSystem.Application\\Class1.cs",
+              "RelativeToolTip": "SupportSystem.Application\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:57:39.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
